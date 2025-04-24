@@ -11,8 +11,6 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the fol
 pip install utcxchangelib
 ```
 
-All dependencies should then be downloaded and correct authentication inserted in `Just_a_Chill_Bot.py`
-
 ## Contributors
 
 This implementation was created by Eileen Rashduni, Jesus Fileto, Wency Suo, Maggie Li
