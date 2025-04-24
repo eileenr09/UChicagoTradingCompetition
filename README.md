@@ -12,4 +12,4 @@ All dependencies should then be downloaded and correct authentication inserted i
 
 ## Contributors
 
-This implementation was created by Jesus Fileto, Wency Suo, Eileen Rashduni, and Maggie Li
+This implementation was created by Eileen Rashduni, Jesus Fileto, Wency Suo, Maggie Li
